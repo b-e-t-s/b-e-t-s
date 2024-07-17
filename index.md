@@ -1,6 +1,11 @@
-
+---
+layout: page
+title: "Home"
+---
 
 ![simulated_bh](images/simulated_bh.jpg)
+
+[Test2](/test/test2)
 
 ## Project
 The Einstein Telescope is one of the leading European research projects with global scientific impact, and Italy is a candidate to host it in Sardinia in the area of the disused Sos Enattos mine in the area of Nuoro. It is a large underground facility for a third-generation gravitational wave detector, which will be able to observe a volume of the universe about one thousand times larger than current second-generation instruments, the LIGO interferometers in the United States and Virgo in Italy. In 2015, these scientific collaborations observed gravitational waves for the first time, predicted 100 years earlier by Albert Einstein, a discovery that was awarded the Nobel Prize in Physics in 2017.
