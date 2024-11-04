@@ -21,7 +21,7 @@ In addition to a triangular-shaped interferometer, to be built on a single site,
 
 ### <a name="people"></a> People
 
-* [Riccardo Sturani]() (Researc.,  [IFT-UNESP](https://www.ift.unesp.br/))
+* [Riccardo Sturani](https://professores.ift.unesp.br/riccardo.sturani/) (Researc.,  [IFT-UNESP](https://www.ift.unesp.br/))
   * Isabela Santiago de Matos (Post-doc, UNESP)
   * Bernardo Porto Veronese (PhD student, UFES)
 * Luis Raul Abramo (Prof., USP)
