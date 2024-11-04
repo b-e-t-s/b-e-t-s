@@ -21,19 +21,24 @@ In addition to a triangular-shaped interferometer, to be built on a single site,
 
 ### <a name="people"></a> People
 
-* Riccardo Sturani (Prof., Unesp & ICTP-SAIFR)
-  * ...
-* ...  
+* [Riccardo Sturani]() (Researc.,  [IFT-UNESP](https://www.ift.unesp.br/))
+  * Isabela Santiago de Matos (Post-doc, UNESP)
+  * Bernardo Porto Veronese (PhD student, UFES)
+* Luis Raul Abramo (Prof., USP)
+  * Victor Roberto Soares da Silva (Phd, USP)
+* Felipe Falciano (Researc., CBPF)
+  * Michael Bacchi (PhD student, UFES)
 * Valerio Marra (Prof., UFES)
-  * Ranier Meloti (PhD student, UFES)
-* Davi Rodrigues (Prof., UFES)
-  * Matheus Felipe (PhD student, UFES)
+  * Ranier Silva Menote (PhD student, UFES)
+* Raissa Mendes (Prof., UFF)
+  * Amanda Guerrieri (PhD student, UFF)
 * Miguel Quartin (Prof., UFRJ)
-  * Tatiane (PhD student, UFES & UFRJ)
-  * Josiel (Postdoc, UFRJ)
+  * Josiel Mendonça Soares de Souza (Post-doc, UFRJ)
+  * Tatiane de Paula Moraes (PhD student, UFES & UFRJ)
+* Davi Rodrigues (Prof., UFES)
+  * Matheus Santos Alves (PhD student, UFES)
 
-
-* OUTROS A SEREM INSERIDOS
+....
 
 ### Works
 
