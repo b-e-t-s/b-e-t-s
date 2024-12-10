@@ -34,7 +34,7 @@ In addition to a triangular-shaped interferometer, to be built on a single site,
   * Ranier Silva Menote (PhD student, UFES)
 * Raissa Mendes (Prof., UFF)
   * Amanda Guerrieri (PhD student, UFF)
-* Miguel Quartin (Prof., UFRJ)
+* [Miguel Quartin](https://www.if.ufrj.br/~mquartin/) (Prof., UFRJ)
   * Josiel Mendonça Soares de Souza (Post-doc, UFRJ)
   * Tatiane de Paula Moraes (PhD student, UFES & UFRJ)
 * Davi Rodrigues (Prof., UFES)
